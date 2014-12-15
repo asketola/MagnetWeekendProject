@@ -13,6 +13,7 @@
 		79537FA31A32CB5B00AA9630 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 79537FA21A32CB5B00AA9630 /* Images.xcassets */; };
 		79537FA61A32CB5B00AA9630 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 79537FA41A32CB5B00AA9630 /* LaunchScreen.xib */; };
 		79537FB21A32CB5C00AA9630 /* MagnetWeekendProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79537FB11A32CB5C00AA9630 /* MagnetWeekendProjectTests.swift */; };
+		79537FBC1A32CECD00AA9630 /* IMG_0004.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 79537FBB1A32CECD00AA9630 /* IMG_0004.JPG */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		79537FAB1A32CB5C00AA9630 /* MagnetWeekendProjectTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MagnetWeekendProjectTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		79537FB01A32CB5C00AA9630 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		79537FB11A32CB5C00AA9630 /* MagnetWeekendProjectTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagnetWeekendProjectTests.swift; sourceTree = "<group>"; };
+		79537FBB1A32CECD00AA9630 /* IMG_0004.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_0004.JPG; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 				79537F9F1A32CB5B00AA9630 /* Main.storyboard */,
 				79537FA21A32CB5B00AA9630 /* Images.xcassets */,
 				79537FA41A32CB5B00AA9630 /* LaunchScreen.xib */,
+				79537FBB1A32CECD00AA9630 /* IMG_0004.JPG */,
 				79537F991A32CB5B00AA9630 /* Supporting Files */,
 			);
 			path = MagnetWeekendProject;
@@ -195,6 +198,7 @@
 				79537FA11A32CB5B00AA9630 /* Main.storyboard in Resources */,
 				79537FA61A32CB5B00AA9630 /* LaunchScreen.xib in Resources */,
 				79537FA31A32CB5B00AA9630 /* Images.xcassets in Resources */,
+				79537FBC1A32CECD00AA9630 /* IMG_0004.JPG in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
